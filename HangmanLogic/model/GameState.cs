@@ -7,4 +7,6 @@ public struct GameState
     public string CurrentWord;
 
     public GameStatus Status;
+
+    public string Id;
 }

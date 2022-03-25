@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\programming_stuff\\games\\own\\Hangman\\Hangman\\HangmanLogic\\HangmanLogic.csproj": {}
+    "E:\\programming_stuff\\games\\own\\Hangman\\Hangman_Cs_Testing\\HangmanLogic\\HangmanLogic.csproj": {}
   },
   "projects": {
-    "E:\\programming_stuff\\games\\own\\Hangman\\Hangman\\HangmanLogic\\HangmanLogic.csproj": {
+    "E:\\programming_stuff\\games\\own\\Hangman\\Hangman_Cs_Testing\\HangmanLogic\\HangmanLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\programming_stuff\\games\\own\\Hangman\\Hangman\\HangmanLogic\\HangmanLogic.csproj",
+        "projectUniqueName": "E:\\programming_stuff\\games\\own\\Hangman\\Hangman_Cs_Testing\\HangmanLogic\\HangmanLogic.csproj",
         "projectName": "HangmanLogic",
-        "projectPath": "E:\\programming_stuff\\games\\own\\Hangman\\Hangman\\HangmanLogic\\HangmanLogic.csproj",
+        "projectPath": "E:\\programming_stuff\\games\\own\\Hangman\\Hangman_Cs_Testing\\HangmanLogic\\HangmanLogic.csproj",
         "packagesPath": "C:\\Users\\BigRPi\\.nuget\\packages\\",
-        "outputPath": "E:\\programming_stuff\\games\\own\\Hangman\\Hangman\\HangmanLogic\\obj\\",
+        "outputPath": "E:\\programming_stuff\\games\\own\\Hangman\\Hangman_Cs_Testing\\HangmanLogic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BigRPi\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -41,6 +41,10 @@
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[16.11.0, )"
+            },
+            "NSubstitute": {
+              "target": "Package",
+              "version": "[4.3.0, )"
             },
             "NUnit": {
               "target": "Package",
